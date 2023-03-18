@@ -1,0 +1,5 @@
+Player1:JS,2S,6C,3C,2H
+Player2:6D,8C,6D,AH,8H
+Player3:5H,AC,4D,9S,10C
+Player4:3C,8S,5D,JC,8D
+Player5:5H,AC,4D,9S,10C
